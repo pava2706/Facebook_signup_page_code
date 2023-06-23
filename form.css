@@ -1,0 +1,60 @@
+html,body{
+    margin: 0px;
+    padding: 0px;
+   
+}
+
+#a{
+    background-color: rgba(222, 184, 135, 0.254);
+    border: 5px solid rgba(0, 0, 0, 0.432);
+    height:100%;
+    width: 500px;
+    border-radius: 30px;
+    margin-top: 30px;
+}
+.i{
+    height: 30px;
+    font-size: 18px;
+    border-radius: 8px;
+    text-align: center;
+}
+#p{
+    height: 30px;
+    width: 300px;
+    border-radius: 8px;
+    font-size: 18px;
+    text-align: center;
+}
+
+#day{
+    width: 70px;
+}
+.g{
+
+    width: 500px;
+    display: inline-block;
+}
+
+span{
+    border: 2px solid rgba(0, 0, 0, 0.432);
+    width: 400px;
+    border-radius: 8px;
+    font-size: 25px;
+    color:rgba(20, 20, 16, 0.869);
+    text-align: center;
+}
+
+.r{
+    background-color: rgba(0, 0, 255, 0.716);
+}
+
+#s{
+    width: 100px;
+    border-radius:8px ;
+    background-color: rgba(0, 128, 0, 0.75);
+    font-size: 25px;
+    color:white;
+}
+h2{
+    color: rgba(0, 0, 255, 0.767);
+}
